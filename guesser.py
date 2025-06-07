@@ -11,7 +11,7 @@ while True:
         if choice.lower() == 'no':
             print("Alright, maybe next time! Goodbye!")
         elif choice.lower() == 'exit':
-             print("Thanks for playing! Goodbye!")
+            print("Thanks for playing! Goodbye!")
         break
 
     max_number = 0
