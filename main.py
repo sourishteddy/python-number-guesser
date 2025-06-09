@@ -1,6 +1,4 @@
-def main():
-    print("Hello from number-guessing-game!")
-
+from guesser import play_guessing_game
 
 if __name__ == "__main__":
-    main()
+    play_guessing_game()
